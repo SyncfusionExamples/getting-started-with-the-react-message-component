@@ -1,0 +1,8 @@
+@import url("https://cdn.syncfusion.com/ej2/20.3.56/bootstrap5.css");
+
+.App{
+    margin: 5%;
+}
+.e-message{
+    width: 300px;
+}
